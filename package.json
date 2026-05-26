@@ -1,0 +1,21 @@
+{
+  "name": "node-practice-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "env_config.js",
+  "scripts": {
+  "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V3RNUMV3NOM/Node-Practice-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/V3RNUMV3NOM/Node-Practice-10/issues"
+  },
+  "homepage": "https://github.com/V3RNUMV3NOM/Node-Practice-10#readme"
+}
